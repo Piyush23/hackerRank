@@ -59,8 +59,8 @@ public class Solution {
 
 		Hashtable<Character, Integer> hashtable = new Hashtable<>();
 
-		for (char character : str.toCharArray()) {
-			if (hashtable.contains(character)) {
+		for (Character character : str.toCharArray()) {
+			if (hashtable.containsKey(character)) {
 				hashtable.put(character, hashtable.get(character).intValue() + 1);
 			} else {
 				hashtable.put(character, 1);
