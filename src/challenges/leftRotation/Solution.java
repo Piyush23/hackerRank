@@ -1,4 +1,4 @@
-package challeges.leftRotation;
+package challenges.leftRotation;
 
 
 import java.io.*;

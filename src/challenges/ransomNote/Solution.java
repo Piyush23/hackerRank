@@ -1,4 +1,4 @@
-package challeges.ransomNote;
+package challenges.ransomNote;
 
 import java.util.*;
 

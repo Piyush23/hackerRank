@@ -1,5 +1,5 @@
 
-package challeges.anagram;
+package challenges.anagram;
 
 import java.io.*;
 import java.util.*;
